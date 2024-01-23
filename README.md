@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack web development<br>🤝 I’m looking for help with future guidance<br>🌱 I’m currently learning DSA and CPP<br>💬 Ask me about programming<br>⚡ Fun fact: The word “strengths” is the longest word in the English language with only one vowel.😉
+🔭 I’m currently working on full stack web development<br>🤝 I’m looking for help with future guidance<br>🌱 I’m currently learning DSA<br>💬 Ask me about programming<br>⚡ Fun fact: The word “strengths” is the longest word in the English language with only one vowel.😉
 
 
 ## 🌐 Socials:
